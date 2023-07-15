@@ -7,7 +7,7 @@ Coder and Developer
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Ayush Portfolio](http://https://ayushhhshh.github.io/My.Portfolio/)
 * ✉️  You can contact me at [ayushjain0314@gmail.com](mailto:ayushjain0314@gmail.com)
-* 🧠  I'm learning Java + DSA
+* 🧠  I'm learning Mobile App Development
 
 ### Skills
 
