@@ -7,7 +7,7 @@ Programmer And Developer
 I'm currently working towards a Bachelor's degree in Computer Applications, specializing in Cyber Security and Network Defense. My passion lies in coding, and I'm always eager to discover new avenues for learning and skill improvement.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://https://ayushhhshh.github.io/My.Portfolio/)
+* 🖥️  See my portfolio at [My Portfolio](https://ayushhhshh.github.io/My.Portfolio/)
 * ✉️  You can contact me at [ayushjain0314@gmail.com](mailto:ayushjain0314@gmail.com)
 * 🧠  I'm learning Flutter
 * ⚡  Programming is like sex: One mistake and you have to support it for the rest of your life.
