@@ -3,8 +3,8 @@
 ###
 
 <p align="left">🌍  I'm based in India<br><br>🖥️  See my portfolio at <a href = "https://ayushhhshh.github.io/My.Portfolio/">My Portfolio<a><br><br>✉️  You can contact me at <a href = "mailto:ayushjain0314@gmail.com">My Mail<a><br><br>🧠  I'm learning Flutter Development <br><br>⚡  Programming is like sex: One mistake and you have to support it for the rest of your life.</p>
-<br>
-<h2 align="left">Hi 👋! My name is Ayush Jain and I'm a Developer from Jaipur</h2>
+
+<h2 align="left">Skills</h2>
 
 ###
 
