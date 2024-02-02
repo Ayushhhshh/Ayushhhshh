@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌍  I'm based in India<br><br>🖥️  See my portfolio at <a href = "https://ayushhhshh.github.io/My.Portfolio/">My Portfolio<a><br><br>✉️  You can contact me at <a href = "mailto:ayushjain0314@gmail.com">My Mail<a><br><br>🧠  I'm learning Flutter Development <br><br>⚡  Programming is like sex: One mistake and you have to support it for the rest of your life.</p>
+<p align="left">🌍  I'm based in India<br><br>🖥️  See my portfolio at <a href = "https://ayushhhshh.github.io/My.Portfolio/">My Portfolio<a><br><br>✉️  You can contact me by <a href = "mailto:ayushjain0314@gmail.com">My Mail<a><br><br>🧠  I'm learning Flutter Development <br><br>⚡  Programming is like sex: One mistake and you have to support it for the rest of your life.</p>
 
 <h2 align="left">Skills ⚡️</h2>
 
