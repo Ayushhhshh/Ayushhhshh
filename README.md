@@ -4,7 +4,7 @@
 
 <p align="left">🌍  I'm based in India<br><br>🖥️  See my portfolio at <a href = "https://ayushhhshh.github.io/My.Portfolio/">My Portfolio<a><br><br>✉️  You can contact me at <a href = "mailto:ayushjain0314@gmail.com">My Mail<a><br><br>🧠  I'm learning Flutter Development <br><br>⚡  Programming is like sex: One mistake and you have to support it for the rest of your life.</p>
 
-<h2 align="left">Skills⚡️</h2>
+<h2 align="left">Skills ⚡️</h2>
 
 ###
 <div align="left">
@@ -82,7 +82,7 @@
 </div>
 
 ###
-<h2 align="left">Socials🎯</h2>
+<h2 align="left">Socials 🎯</h2>
 
 
 <div align="left">
@@ -105,14 +105,14 @@
 <img src="https://raw.githubusercontent.com/ayushhhshh/ayushhhshh/output/snake.svg" alt="Snake animation" />
 
 ###
-<h2 align="left">Profile Views👀</h2>
+<h2 align="left">Profile Views 👀</h2>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ayushhhshh/count.svg?"  />
 </div>
 
 ###
-<h2 align="left">Stats📊</h2>
+<h2 align="left">Stats 📊</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayushhhshh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
