@@ -105,6 +105,7 @@
 <img src="https://raw.githubusercontent.com/ayushhhshh/ayushhhshh/output/snake.svg" alt="Snake animation" />
 
 ###
+<h2 align="left">Profile Views</h2>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ayushhhshh/count.svg?"  />
