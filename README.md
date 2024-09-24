@@ -10,7 +10,7 @@
 - 📫 How to reach me: Check social links below. <br>
 
 
-# 💻 Skills
+## 💻 Skills
 
 ###
 <div align="left">
@@ -89,8 +89,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
 </div>
 
-###
-# 🌐 Socials
+## 🌐 Socials
 
 
 <div align="left">
@@ -104,23 +103,26 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/Ayushhhshh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/twitter/follow/Ayushhhshh?logo=Twitter&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
 
-###
-<h2 align="left">Trophies 🏆</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushhhshh" alt="ayushhhshh" /></a> </p>
+## 👨🏻‍💻 Laptop in use & Favorite Terminal
+<img src="https://img.shields.io/badge/Apple-MacBook_Air_M1-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/WezTerm-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
 
+## 🎵 Music apps I use
+<img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
 
-###
-<h2 align="left">Stats 📊</h2>
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushhhshh&theme=vue"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushhhshh&show_icons=true&locale=en&layout=compact" alt="ayushhhshh" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushhhshh&show_icons=true&locale=en" alt="ayushhhshh" /></p>
-
-
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhhshh&" alt="ayushhhshh" /></p>
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayushhhshh&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushhhshh&theme=vue" />
+</p>
 
 ###
 <h2 align="left">Profile Views 👀</h2>
