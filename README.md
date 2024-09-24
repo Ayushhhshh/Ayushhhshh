@@ -10,7 +10,7 @@
 - 📫 How to reach me: Check social links below. <br>
 
 
-## 💻 Skills
+## 💻 Technologies and Tools
 
 ###
 <div align="left">
