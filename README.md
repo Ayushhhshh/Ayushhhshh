@@ -10,7 +10,7 @@
 - 📫 How to reach me: Check social links below. <br>
 
 
-<h2 align="left">💻 Skills</h2>
+# 💻 Skills
 
 ###
 <div align="left">
@@ -90,7 +90,7 @@
 </div>
 
 ###
-<h2 align="left">🌐 Socials</h2>
+# 🌐 Socials
 
 
 <div align="left">
