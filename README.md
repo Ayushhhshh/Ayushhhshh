@@ -3,7 +3,7 @@
 
 ###
 
-# 💫 About Me : <br>
+## 💫 About Me : <br>
 - 😄 Pronouns: He/His <br>
 - 🔭 I'm an AI Geek who loves to play with LLM's and interact with data. <br>
 - 💬 Ask me about Flutter or any tech-related stuff. <br>
