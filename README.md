@@ -3,7 +3,12 @@
 
 ###
 
-<p align="left">🌍  I'm based in India<br><br>🖥️  See my portfolio at <a href = "https://ayushhhshh.github.io/My.Portfolio/">My Portfolio<a><br><br>✉️  You can contact me by <a href = "mailto:ayushjain0314@gmail.com">My Mail<a><br><br>🧠  I'm an AI Geek who loves to play with LLM's and interact with data.</p>
+# 💫 About Me : <br>
+- 😄 Pronouns: He/His <br>
+- 🔭 I'm an AI Geek who loves to play with LLM's and interact with data. <br>
+- 💬 Ask me about Flutter or any tech-related stuff. <br>
+- 📫 How to reach me: Check social links below. <br>
+
 
 <h2 align="left">Skills ⚡️</h2>
 
