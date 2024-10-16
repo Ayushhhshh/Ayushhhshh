@@ -5,7 +5,7 @@
 
 ## 💫 About Me : <br>
 - 😄 Pronouns: He/His <br>
-- 🎯 Currently learnning GitLab to build CI/CD Pipelines. <br>
+- 🎯 Currently working on Selenium. <br>
 - 🔭 I'm an AI Geek who loves to play with LLM's and interact with data. <br>
 - 💬 Ask me about Flutter or any tech-related stuff. <br>
 - 📫 How to reach me: Check social links below. <br>
