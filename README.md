@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
-<h3 align="center">I'm a Developer from Jaipur 🎧</h3>
+<h3 align="center">I'm a Quality Assurance Engineer 💻</h3>
 
 ###
 
